@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working/studying as IT Specialist for systemintegration
-💬 Ask me about languages, travel tips, bureaucracy in Italy and Germany
-⚡ Fun fact: I have a bachelor in languages but came back to my old love, IT. 
+- 🔭 I’m currently working/studying as IT Specialist for systemintegration
+- 💬 Ask me about languages, travel tips, bureaucracy in Italy and Germany
+- ⚡ Fun fact: I have a bachelor in languages but came back to my old love, IT. 
 <!--
 **achancay10/achancay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
